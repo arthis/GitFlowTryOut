@@ -1,0 +1,1 @@
+where is stored version number for application?
